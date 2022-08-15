@@ -1,0 +1,17 @@
+D:\UdemyPractice\BookStore\BookStore.DataAccess\obj\Debug\net6.0\BookStore.DataAccess.csproj.AssemblyReference.cache
+D:\UdemyPractice\BookStore\BookStore.DataAccess\obj\Debug\net6.0\BookStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyPractice\BookStore\BookStore.DataAccess\obj\Debug\net6.0\BookStore.DataAccess.AssemblyInfoInputs.cache
+D:\UdemyPractice\BookStore\BookStore.DataAccess\obj\Debug\net6.0\BookStore.DataAccess.AssemblyInfo.cs
+D:\UdemyPractice\BookStore\BookStore.DataAccess\obj\Debug\net6.0\BookStore.DataAccess.csproj.CoreCompileInputs.cache
+D:\UdemyPractice\BookStore\BookStore.DataAccess\bin\Debug\net6.0\BookStore.DataAccess.deps.json
+D:\UdemyPractice\BookStore\BookStore.DataAccess\bin\Debug\net6.0\BookStore.DataAccess.dll
+D:\UdemyPractice\BookStore\BookStore.DataAccess\bin\Debug\net6.0\BookStore.DataAccess.pdb
+D:\UdemyPractice\BookStore\BookStore.DataAccess\bin\Debug\net6.0\BookStore.Models.dll
+D:\UdemyPractice\BookStore\BookStore.DataAccess\bin\Debug\net6.0\BookStore.Models.pdb
+D:\UdemyPractice\BookStore\BookStore.DataAccess\obj\Debug\net6.0\BookStore.DataAccess.csproj.CopyComplete
+D:\UdemyPractice\BookStore\BookStore.DataAccess\obj\Debug\net6.0\BookStore.DataAccess.dll
+D:\UdemyPractice\BookStore\BookStore.DataAccess\obj\Debug\net6.0\refint\BookStore.DataAccess.dll
+D:\UdemyPractice\BookStore\BookStore.DataAccess\obj\Debug\net6.0\BookStore.DataAccess.pdb
+D:\UdemyPractice\BookStore\BookStore.DataAccess\obj\Debug\net6.0\ref\BookStore.DataAccess.dll
+D:\UdemyPractice\BookStore\BookStore.DataAccess\bin\Debug\net6.0\BookStore.DataAccess.runtimeconfig.json
+D:\UdemyPractice\BookStore\BookStore.DataAccess\obj\Debug\net6.0\BookStore.DataAccess.genruntimeconfig.cache

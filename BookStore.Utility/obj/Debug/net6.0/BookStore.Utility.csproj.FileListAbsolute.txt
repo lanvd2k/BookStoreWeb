@@ -1,0 +1,12 @@
+D:\UdemyPractice\BookStore\BookStore.Utility\bin\Debug\net6.0\BookStore.Utility.deps.json
+D:\UdemyPractice\BookStore\BookStore.Utility\bin\Debug\net6.0\BookStore.Utility.dll
+D:\UdemyPractice\BookStore\BookStore.Utility\bin\Debug\net6.0\BookStore.Utility.pdb
+D:\UdemyPractice\BookStore\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.csproj.AssemblyReference.cache
+D:\UdemyPractice\BookStore\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyPractice\BookStore\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.AssemblyInfoInputs.cache
+D:\UdemyPractice\BookStore\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.AssemblyInfo.cs
+D:\UdemyPractice\BookStore\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.csproj.CoreCompileInputs.cache
+D:\UdemyPractice\BookStore\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.dll
+D:\UdemyPractice\BookStore\BookStore.Utility\obj\Debug\net6.0\refint\BookStore.Utility.dll
+D:\UdemyPractice\BookStore\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.pdb
+D:\UdemyPractice\BookStore\BookStore.Utility\obj\Debug\net6.0\ref\BookStore.Utility.dll

@@ -1,0 +1,12 @@
+D:\UdemyPractice\BookStore\BookStore.Models\bin\Debug\net6.0\BookStore.Models.deps.json
+D:\UdemyPractice\BookStore\BookStore.Models\bin\Debug\net6.0\BookStore.Models.dll
+D:\UdemyPractice\BookStore\BookStore.Models\bin\Debug\net6.0\BookStore.Models.pdb
+D:\UdemyPractice\BookStore\BookStore.Models\obj\Debug\net6.0\BookStore.Models.csproj.AssemblyReference.cache
+D:\UdemyPractice\BookStore\BookStore.Models\obj\Debug\net6.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyPractice\BookStore\BookStore.Models\obj\Debug\net6.0\BookStore.Models.AssemblyInfoInputs.cache
+D:\UdemyPractice\BookStore\BookStore.Models\obj\Debug\net6.0\BookStore.Models.AssemblyInfo.cs
+D:\UdemyPractice\BookStore\BookStore.Models\obj\Debug\net6.0\BookStore.Models.csproj.CoreCompileInputs.cache
+D:\UdemyPractice\BookStore\BookStore.Models\obj\Debug\net6.0\BookStore.Models.dll
+D:\UdemyPractice\BookStore\BookStore.Models\obj\Debug\net6.0\refint\BookStore.Models.dll
+D:\UdemyPractice\BookStore\BookStore.Models\obj\Debug\net6.0\BookStore.Models.pdb
+D:\UdemyPractice\BookStore\BookStore.Models\obj\Debug\net6.0\ref\BookStore.Models.dll
